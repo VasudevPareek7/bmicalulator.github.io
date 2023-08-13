@@ -1,2 +1,2 @@
 # bmicalulator.github.io
-My First Project
+A Simple BMI Calculator built using React
